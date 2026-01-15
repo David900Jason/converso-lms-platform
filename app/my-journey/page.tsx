@@ -11,6 +11,8 @@ import {
     getUserSessions,
 } from "@/lib/actions/companion.action";
 import Image from "next/image";
+
+export const dynamic = "force-dynamic";
 import CompanionsList from "@/components/CompanionsList";
 
 const Profile = async () => {
