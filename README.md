@@ -69,4 +69,4 @@ I designed and implemented the full system architecture, integrated frontend and
 
 ## Live Demo
 
-Check out the live application here: [https://converso-lms-platform.vercel.app/](Link here)
+Check out the live application here: [Link](https://converso-lms-platform.vercel.app/)
