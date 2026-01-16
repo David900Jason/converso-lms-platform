@@ -67,5 +67,6 @@ SENTRY_AUTH_TOKEN=
 I designed and implemented the full system architecture, integrated frontend and backend layers, implemented authentication and billing logic, integrated the AI voice agent, enforced validation and monitoring, and managed deployment. Emphasis was placed on modularity, reusability, and production-ready code.
 
 
-## Project Demo Link
-(https://converso-lms-platform.vercel.app/)[Converso Project Link]
+## Live Demo
+
+Check out the live application here: [https://converso-lms-platform.vercel.app/](Link here)
